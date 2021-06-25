@@ -1,1 +1,7 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Camping Airbnb
+<a href="https://camping-airbnb.herokuapp.com/">Camping Airbnb</a> is the Airbnb of campsites.
+
+# Technologies 
+Ruby on Rails, JavaScript
+
+# Launch
