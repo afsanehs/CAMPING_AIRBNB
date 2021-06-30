@@ -4,4 +4,3 @@
 # Technologies 
 Ruby on Rails, JavaScript
 
-# Launch
